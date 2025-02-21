@@ -1,3 +1,3 @@
 # tmt-enabler
 
-# Python version of Alteryx enabler
+Python version of Alteryx enabler
